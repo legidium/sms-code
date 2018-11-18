@@ -1,0 +1,31 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.form {
+  text-align: left;
+}
+
+.form-row {
+  display: block;
+}
+
+.form-label {
+}
+.form-input {
+}
+
+.sms-code-input {
+  display: flex;
+}
+
+.sms-code-input__error {
+  background: red;
+  border-radius: 2px;
+  color: white;
+  font-size: 11px;
+  line-height: 1;
+  padding: 4px 6px;
+  margin-top: 2px;
+}
